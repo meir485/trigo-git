@@ -1,0 +1,9 @@
+body{
+    background-color: aquamarine;
+}
+.side-container{
+    display: inline-block;
+}
+.angle-container{
+    display: inline-block;
+}
